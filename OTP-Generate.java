@@ -33,3 +33,6 @@ public class OTPClass
 		System.out.println(OTP(length));
 	}
 }
+// =========== OUTPUT ==========
+// Generating OTP using random() : 
+// You OTP is : 2567
